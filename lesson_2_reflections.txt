@@ -1,0 +1,2 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+     in order to do  anything in git we should have a repository.it stores all the changes we made.
